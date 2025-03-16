@@ -1,0 +1,93 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <html>
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale="1.0"/>
+<title id="title">Nelson Mandela</title>
+<link rel="styleseet" href="styles.css">
+<body>
+  <header>
+    <p id="name">Nelson Mandela</p>
+    <p id="head">The man who liberated South Africa</p>
+    </header>
+  <main id="main">
+    <div id="img-div">
+<img src="https://www.essence.com/wp-content/uploads/2013/12/images/2013/06/27/nelson-mandela-south-african-president.jpg?width=800" alt="a picture of Nelson Mandela" id="image">
+<figcaption id="img-caption">A picture of Nelson Mandela</figcaption>
+<div id="tribute-info">
+  <h4>Timeline of Nelson Mandela's Life</h4>
+  <ul>
+<p>July 18, 1918 – Born in Mvezo, South Africa.</p>  
+<p>1925– Began primary school, where his teacher gave him the English name "Nelson."</p>  
+<p>1934 – Underwent the traditional Xhosa initiation ceremony into adulthood.</p>  
+<p>1939– Enrolled at the University of Fort Hare but was later expelled for participating in a student protest.</p>  
+<p>1941– Moved to Johannesburg and worked in various jobs while studying law.</p>  
+<p>1943 – Joined the African National Congress (ANC) and became involved in anti-apartheid activism.</p>  
+</p>1944 – Co-founded the ANC Youth League. Married Evelyn Mase (divorced in 1958).</p>  
+<p>1952 – Launched the Defiance Campaign against apartheid; opened South Africa’s first Black law firm with Oliver Tambo.</p>  
+<p>1956 – Arrested and charged with treason along with 155 others; acquitted in 1961.</p>  
+<p>1958 – Married Winnie Madikizela (divorced in 1996).</p>  
+<p>1961 – Helped form the ANC's armed wing, Umkhonto we Sizwe, after realizing peaceful resistance was not enough.</p>  
+<p>August 5, 1962 – Arrested and sentenced to five years in prison.</p>  
+<p>June 12, 1964 – Sentenced to life imprisonment for sabotage and conspiracy against the government (Rivonia Trial).</p>  
+<p>1964–1982 – Imprisoned on Robben Island, performing hard labor.</p>  
+<p>1982 – Transferred to Pollsmoor Prison.</p>  
+<p>February 11, 1990 – Released from prison after 27 years.</p>  
+<p>1991 – Elected president of the ANC.</p>  
+<p>April 27, 1994 – South Africa held its first multiracial elections. Mandela was elected the country’s first Black president.</p>  
+<p>May 10, 1994 – Inaugurated as President of South Africa.  
+<p>1996 – Divorced Winnie Madikizela-Mandela.</p>  
+<p>1999 – Stepped down after one term as president.</p>  
+<p>2004 – Retired from public life.  
+<p>July 18, 2009 – The UN declared "Nelson Mandela International Day" to honor his legacy.</p>  
+<p>December 5, 2013 – Passed away at age 95.</p>
+</ul>
+  </div>
+      </div>
+     <p id="last"><b>You can read more about this incredible man on</b> <a href="https://en.wikipedia.org/wiki/Nelson_Mandela" target="_blank" id="tribute-link">Wikipedia</a> </p>
+    </main>
+  </body>
+  </head>
+    </html>
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  background: rgb(230, 230, 230);
+font-family: Tahoma;
+
+}
+header {
+  text-align: center;
+  font-size: 30px;
+  width: 100%;
+  height: 150px;
+  background-color: white;
+  margin: 20px auto;
+}
+#name {
+  padding: 30px 0px 0px 0px;
+}
+#head {
+  font-size: 18px;
+  padding:10px 0px0px 0px;
+}
+#image {
+  display:block;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  margin: 10px auto;  
+}
+#img-caption, #last, h4 {
+  text-align: center;
+}
+
+
+** end of undefined **
+
